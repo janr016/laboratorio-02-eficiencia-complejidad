@@ -1,7 +1,9 @@
 # Laboratorio 02: Eficiencia y complejidad algorítmica
 
 **Materia:** Algoritmos · Semana 2 · Universidad Central del Ecuador
+
 **Carrera:** Ingeniería en Sistemas de Información · Cuarto semestre
+
 **Autores:** Derlis Caiza ([@goderlis11](https://github.com/goderlis11)) y Juan Naranjo ([@janr016](https://github.com/janr016))
 
 ## Problema
