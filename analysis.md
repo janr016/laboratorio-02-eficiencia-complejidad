@@ -8,10 +8,10 @@ Se compararon dos algoritmos que marcan con `-1` los valores repetidos de una li
 
 | Algoritmo | n | Operaciones (promedio) | Tiempo promedio (ms) |
 |---|---|---|---|
-| A | 100 | 4.989 | 0,0444 |
-| A | 1.000 | 479.764 | 2,1950 |
-| B | 100 | 300 | 0,0238 |
-| B | 1.000 | 3.061 | 0,0672 |
+| A | 100 | 4.989 | 0,1912 |
+| A | 1.000 | 479.764 | 5,4678 |
+| B | 100 | 300 | 0,0950 |
+| B | 1.000 | 3.061 | 0,1984 |
 
 ### Crecimiento al pasar de n = 100 a n = 1.000 (n × 10)
 
