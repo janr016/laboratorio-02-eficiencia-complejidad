@@ -44,10 +44,10 @@ Promedio de 3 repeticiones (ver captura completa en `results/`):
 
 | Algoritmo | n | Operaciones | Tiempo (ms) |
 |---|---|---|---|
-| A | 100 | 4.989 | 0,0444 |
-| A | 1.000 | 479.764 | 2,1950 |
-| B | 100 | 300 | 0,0238 |
-| B | 1.000 | 3.061 | 0,0672 |
+| A | 100 | 4.989 | 0,01912 |
+| A | 1.000 | 479.764 | 5,4678 |
+| B | 100 | 300 | 0,0950 |
+| B | 1.000 | 3.061 | 0,1984 |
 
 > Las operaciones son siempre iguales entre ejecuciones; los tiempos varían un poco según la máquina y el momento.
 
