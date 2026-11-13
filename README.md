@@ -36,7 +36,7 @@ El algoritmo B escalará mejor que el A. A debería crecer de forma cuadrática 
 | Repeticiones | 3 por cada combinación algoritmo/tamaño; se reporta el promedio |
 | Métricas | Operaciones (contadas en el código) y tiempo en ms (`System.nanoTime()`) |
 | Verificación | Antes de medir, se comprueba que A y B marcan las mismas posiciones |
-| Ambiente | Procesador: _completar_ · RAM: _completar_ · SO: _completar_ · IDE/JDK: _completar_ |
+| Ambiente | Procesador:Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz · RAM: 16.0 GB (15.9 GB utilizable) · SO: Windows 11 Pro · IDE/JDK: IntelliJ IDEA - java version "24.0.1" 2025-04-15 |
 
 ## Resultados
 
